@@ -13,5 +13,3 @@ It's always handy when all of your thoughts are kept in one place. Don't forget 
 
 ## Deployed Link
 [Note Taker App](https://create-save-note.herokuapp.com/)
-
-https://github.com/matthiatt
